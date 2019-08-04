@@ -1,1 +1,5 @@
-// Write a function that takes in two numbers and returns the sum.
+const summing = (a, b) => {
+    return a + b
+}
+
+console.log(summing(1, 2))
